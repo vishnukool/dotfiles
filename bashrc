@@ -1,4 +1,4 @@
-export dotfiles=~/dotfiles
+export dotfiles=~/personal_projects/dotfiles
 
 . $dotfiles/bash/env
 . $dotfiles/bash/config
