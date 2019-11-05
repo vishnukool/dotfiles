@@ -73,7 +73,7 @@ function s() {
   . ~/.bashDirB_envvars
 
   NAME="$1"
-  shift; shift
+  shift
   if [ -n "$1" ]; then
     ( echo "echo $*" >> ~/.DirB/"$NAME" ;) > /dev/null 2>&1
   fi
