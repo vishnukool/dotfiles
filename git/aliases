@@ -12,6 +12,7 @@ alias gb='git branch'
 alias gba='git branch -a'
 alias gbr='git branch -r'
 alias gcv='git cherry -v'
+alias grs='git restore --staged --worktree'
 
 alias gsr='git svn rebase'
 alias gsd='git svn dcommit'
