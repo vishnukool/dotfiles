@@ -1,6 +1,7 @@
 alias gs='git status'
 alias gg='git gui'
 alias gpu='git push'
+alias gp='git push'
 alias gpl='git pull'
 alias gl='git log'
 alias gpr='git pull --rebase'
