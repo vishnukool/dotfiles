@@ -1,4 +1,5 @@
 alias gs='git status'
+alias ga='git add . && git commit --amend --no-edit'
 alias gg='git gui'
 alias gpu='git push'
 alias gp='git push'
